@@ -1,0 +1,24 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:800);
+@import url(http://fonts.googleapis.com/css?family=Great+Vibes);
+
+body {
+	background: url("pics/generic1.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+div {
+	text-align: center;
+
+	color: white;
+	font-family: "Open Sans", "sans-serif";
+}
+
+#bigtext {
+	font-size: 50pt;
+}
+
+#smalltext {
+	font-family: "Great Vibes", Helvetica, sans-serif;
+	font-size: 20pt;
+}
