@@ -1,1 +1,1 @@
-A little generic wallpaper generator I wrote for fun. Puts big white text on generic wallpapers. Check it out [here](http://begeneric.github.io/). Picture credits go to [/r/earthporn](http://www.reddit.com/earthporn/).
+A little generic wallpaper generator I wrote for fun. Puts big white text on generic wallpapers. Check it out [here](http://begeneric.github.io/). Picture credits go to [/r/earthporn](http://www.reddit.com/r/earthporn/).
